@@ -1,0 +1,28 @@
+# Repository License
+
+This repository uses a split-licensing model to protect both the software elements and the educational curriculum material.
+
+## 1. Code & Python Implementation
+All software components, including `.py` files, scripts, automation tools, and configuration code in this repository are licensed under the **PolyForm Noncommercial License 1.0.0**.
+
+* **Permitted:** Free use, execution, modification, and sharing for personal, educational, and academic research purposes.
+* **Prohibited:** Any commercial exploitation, corporate training usage, or integration into paid platforms without a separate commercial license agreement.
+
+The full terms of the PolyForm Noncommercial License can be reviewed here:
+https://polyformproject.org
+
+## 2. Course Curriculum & Documentation
+All text documentation, Markdown files (`.md`), course syllabus paths, assignments, and educational explanations are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+* **Permitted:** Free to read, share, copy, and distribute in any medium or format for non-commercial or academic lecture use.
+* **Prohibited:** You may not use the material for commercial purposes, and if you remix, transform, or build upon the material, you may not distribute the modified material.
+
+The full terms of the Creative Commons license can be reviewed here:
+https://creativecommons.org
+
+---
+
+## 💼 Commercial Licensing & Institutional Inquiries
+If you wish to use this code or curriculum for commercial purposes (including corporate bootcamps, internal employee training, or paid platforms like Udemy), you must obtain a commercial license.
+
+To inquire about commercial licensing rates, please contact: `arathreon@outlook.com`

@@ -1,0 +1,13 @@
+[project]
+name = "datascience-course"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.4.6",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.15.17",
+]
